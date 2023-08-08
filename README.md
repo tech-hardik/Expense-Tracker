@@ -1,5 +1,5 @@
 # Expense-Tracker
-An expense tracker app made using Core Data and SwiftUI.
+An expense tracker app made using Core Data and SwiftUI. Save, edit, delete expenses, turn dark mode on and off, and more.
 ![Simulator Screenshot - iPhone 14 Pro - 2023-08-08 at 23 16 10](https://github.com/tech-hardik/Expense-Tracker/assets/138746923/062267bd-933d-4fae-b3cd-d9637f29a2d5)
 ![Simulator Screenshot - iPhone 14 Pro - 2023-08-08 at 23 17 01](https://github.com/tech-hardik/Expense-Tracker/assets/138746923/de605a26-19db-4473-b32d-c8cf60a38b95)
 ![Simulator Screenshot - iPhone 14 Pro - 2023-08-08 at 23 17 10](https://github.com/tech-hardik/Expense-Tracker/assets/138746923/115d9a8e-ae4a-4479-a70d-240d7f606eea)
